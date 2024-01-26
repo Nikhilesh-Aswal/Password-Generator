@@ -1,1 +1,1 @@
-# Password-Generator
+The C++ code implements a Random Password Generator with user-defined length and complexity levels (easy, medium, or hard). The generate_password function constructs passwords using character sets based on the chosen complexity, and the main function handles user input, ensuring a secure and customizable password generation process. The program utilizes the rand function for randomization and incorporates error handling for invalid inputs. Overall, it provides a simple, command-line tool for generating random passwords in C++.
